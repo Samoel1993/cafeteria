@@ -111,7 +111,7 @@ public class ProdutoView extends JInternalFrame {
 		btNovoProduto.setBounds(400, 35, 139, 27);
 		getContentPane().add(btNovoProduto);
 
-		btPesquisar = new JButton("Pesquisar");
+		btPesquisar = new JButton("Teste");
 		btPesquisar.addActionListener(new ActionListener() {
 			@Override
 			public void actionPerformed(ActionEvent e) {
